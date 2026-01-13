@@ -1,8 +1,9 @@
-<h1 align="center">Hola, soy Braulio Toledo<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hello, I'm Braulio Toledo<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=BraulioTol&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Applied%20Math%20|%20Data%20Analysis&fontSize=40&animation=fadeIn&fontAlignY=35&desc=R%20•%20Python%20•%20SQL%20•%20Power%20BI&descAlignY=55&descSize=15" width="100%" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toledo-ramírez-braulio-09641836b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -11,11 +12,11 @@
 
 ---
 
-### 🎓 Sobre mí
-- 📊 Estudiante de **Matemáticas Aplicadas**.
-- 🔬 Enfocado en el desarrollo y aplicación de **Modelos Estadísticos**.
-- 🚀 Actualmente profundizando en el análisis de datos con **R, SQL y Python**.
-- 📈 Especializándome en visualización de datos con **Power BI**.
+### 🎓 About me:
+- 📊 **Applied Mathematics** student.
+- 🔬 Focused on the development and application of **Statistical Models**.
+- 🚀 Currently deepening my data analysis skills with **R, SQL, and Python.**.
+- 📈 Data visualization with **Power BI**.
 
 ---
 
