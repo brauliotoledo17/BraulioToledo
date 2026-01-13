@@ -31,16 +31,13 @@
 ### 🚀 Featured Projects
 
 <table>
-  <tr>
+    <tr>
     <td width="50%">
-      <h3 align="center">Análisis Estadístico Avanzado</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/brauliotoledo17/brauliotoledo17/main/project1.png" alt="Proyecto 1" width="100%">
-      </div>
-      <p>Modelado de datos complejos utilizando <b>R</b> y técnicas de inferencia estadística.</p>
+      <h3 align="center">Adventure Works Analysis Data Base</h3>
+      <p>Technical analysis of the <b>Adventure Works</b> production database (2001-2003) using <b>SQL</b> and <b>Excel</b> to optimize manufacturing costs and profit margins.</p>
       <p align="center">
-        <a href="https://github.com/brauliotoledo17/nombre-del-repo"><b>Ver Código</b></a> • 
-        <a href="#"><b>Documentación</b></a>
+        <a href="https://github.com/brauliotoledo17/CompanyBaseAnalysis"><b>View Code</b></a> • 
+        <a href="https://github.com/brauliotoledo17/CompanyBaseAnalysis/blob/main/Proyecto_Manejo_Datos.pdf"><b>Documentation</b></a>
       </p>
     </td>
     <td width="50%">
