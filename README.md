@@ -21,7 +21,7 @@
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,py,mysql,postgres,github,git,latex,sklearn,md" />
+  <img src="https://skillicons.dev/icons?i=r,py,mysql,github,latex" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="48px" />
 </p>
 
@@ -62,18 +62,6 @@
 > [!TIP]
 > Puedes ver todos mis certificados detallados en mi repositorio dedicado: 
 > **[📂 Mis Certificaciones y Cursos](https://github.com/brauliotoledo17/certificaciones)**
-
----
-
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brauliotoledo17&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Braulio" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliotoledo17&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brauliotoledo17&theme=tokyonight" alt="Racha de contribuciones" />
-</p>
 
 ---
 
