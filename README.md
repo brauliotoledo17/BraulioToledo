@@ -12,7 +12,7 @@
 
 ---
 
-### 🎓 About me:
+### 🎓 About Me:
 - 📊 **Applied Mathematics** student.
 - 🔬 Focused on the development and application of **Statistical Models**.
 - 🚀 Currently deepening my data analysis skills with **R, SQL, and Python.**.
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Software and Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=r,py,mysql,github,latex" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="48px" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
 <table>
   <tr>
@@ -59,10 +59,10 @@
 
 ---
 
-### 📜 Formación y Certificaciones
+### 📜 Certifications
 > [!TIP]
-> Puedes ver todos mis certificados detallados en mi repositorio dedicado: 
-> **[📂 Mis Certificaciones y Cursos](https://github.com/brauliotoledo17/certificaciones)**
+> You can see all my detailed certificates in my repository:
+> **[📂 My Certifications and courses](https://github.com/brauliotoledo17/certificaciones)**
 
 ---
 
