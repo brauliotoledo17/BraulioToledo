@@ -65,6 +65,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=La%20matemática%20es%20la%20llave%20y%20la%20puerta%20de%20la%20ciencia." alt="Frase" />
-</p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20mathematician%20does%20not%20study%20pure%20mathematics%20because%20it%20is%20useful;%20he%20studies%20it%20because%20he%20delights%20in%20it%20and%20he%20delights%20in%20it%20because%20it%20is%20beautiful.&author=Henri%20Poincaré" alt="Frase Poincaré" /> </p>
