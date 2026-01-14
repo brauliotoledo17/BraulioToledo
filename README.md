@@ -36,8 +36,8 @@
       <h3 align="center">Adventure Works Analysis Data Base</h3>
       <p>Technical analysis of the <b>Adventure Works</b> production database (2001-2003) using <b>SQL</b> and <b>Excel</b> to optimize manufacturing costs and profit margins.</p>
       <p align="center">
-        <a href="https://github.com/brauliotoledo17/CompanyBaseAnalysis"><b>View Code</b></a> • 
-        <a href="https://github.com/brauliotoledo17/CompanyBaseAnalysis/blob/main/Proyecto_Manejo_Datos.pdf"><b>Documentation</b></a>
+        <a href="https://github.com/brauliotoledo17/CompanyBaseAnalysis"><b>Excel</b></a> • 
+        <a href="https://github.com/brauliotoledo17/CompanyBaseAnalysis/blob/main/Proyecto_Manejo_Datos.pdf"><b>Report</b></a>
       </p>
     </td>
     <td width="50%">
