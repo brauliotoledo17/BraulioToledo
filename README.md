@@ -41,11 +41,8 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Dashboard de Inteligencia de Negocio</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/brauliotoledo17/brauliotoledo17/main/project2.png" alt="Proyecto 2" width="100%">
-      </div>
-      <p>Visualización interactiva en <b>Power BI</b> para la toma de decisiones basada en datos de SQL.</p>
+      <h3 align="center">D</h3>
+      <p>Descripcion</p>
       <p align="center">
         <a href="https://github.com/brauliotoledo17/nombre-del-repo"><b>Ver Código</b></a> • 
         <a href="#"><b>Reporte</b></a>
