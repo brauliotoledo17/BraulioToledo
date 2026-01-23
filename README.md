@@ -41,11 +41,10 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">D</h3>
-      <p>Descripcion</p>
+      <h3 align="center">Stadistic Models in R</h3>
+      <p>Here you'll find some proyects where I develop some Stadistic Models like linear regression, exploratory analysis or support vector machine.</h3>
       <p align="center">
-        <a href="https://github.com/brauliotoledo17/nombre-del-repo"><b>Ver Código</b></a> • 
-        <a href="#"><b>Reporte</b></a>
+        <a href="https://github.com/brauliotoledo17/Proyects-on-R"><b>My Proyects</b></a>
       </p>
     </td>
   </tr>
